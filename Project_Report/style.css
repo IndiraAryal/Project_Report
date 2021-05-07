@@ -1,0 +1,16 @@
+
+
+body{
+  text-align: justify;
+  text-size-adjust: 200%;
+  font-family: "Times New Roman", Times, serif;
+}
+h1{
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+h2{
+  font-size: 0.5em;
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+}
